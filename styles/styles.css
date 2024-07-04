@@ -52,6 +52,11 @@ article {
     margin-right: 10px;
 }
 
+.banner-pic{
+    width: 100%;
+    height: 80%;
+}
+
 article p {
     text-align: justify;
 }
